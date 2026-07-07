@@ -71,6 +71,7 @@
     galleryToggle.hidden = filtered.length <= visibleCount();
     galleryToggle.textContent = expanded ? "Show Less" : "Show More";
     galleryToggle.setAttribute("aria-expanded", String(expanded));
+    window.lazyRevealAnimations?.initialize();
   }
 
   gallery?.querySelectorAll("[data-gallery-filter]").forEach(button => button.addEventListener("click", () => {
