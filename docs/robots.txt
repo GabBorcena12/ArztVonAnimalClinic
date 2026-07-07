@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arztvon.com/sitemap.xml
+Sitemap: https://gabborcena12.github.io/ArztVonAnimalClinic/sitemap.xml

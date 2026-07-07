@@ -1,18 +1,1 @@
-{
-  "name": "Arzt Von Animal Clinic and Pet Grooming",
-  "short_name": "Arzt Von",
-  "description": "Animal clinic services, pet care, grooming, and appointment support in San Jose del Monte, Bulacan.",
-  "start_url": "/",
-  "scope": "/",
-  "display": "standalone",
-  "background_color": "#f7f9fc",
-  "theme_color": "#2447c6",
-  "icons": [
-    {
-      "src": "/images/arzt-von-logo.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ]
-}
+{"name":"Arzt Von Animal Clinic and Pet Grooming","short_name":"Arzt Von","description":"Veterinary care and pet grooming in San Jose del Monte.","start_url":"./","scope":"./","display":"standalone","background_color":"#ffffff","theme_color":"#2447c6","icons":[{"src":"images/arzt-von-logo.png","sizes":"any","type":"image/png","purpose":"any maskable"}]}
