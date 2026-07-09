@@ -1,5 +1,7 @@
 # Arztvon Animal Clinic Website
 
+A responsive animal clinic for local business.
+
 ## Project structure
 
 - `ArztVonAnimalClinic/` contains the Blazor website.
